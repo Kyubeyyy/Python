@@ -1,4 +1,5 @@
 # Programa simples de entrada e saída de dados no Python
+
 print("Olá!")
 nome = input("Digite seu nome: ")
 print("Seja bem vindo(a),",nome, "\nVamos lá!")
